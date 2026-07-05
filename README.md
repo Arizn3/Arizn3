@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Lucas Cappello</h1>
+<h3 align="center">Développeur Full-Stack Junior</h3>
+<br>
+<h4> Développeur Full-Stack Junior passionné, curieux et rigoureux </h4>
 
-<!--
-**Arizn3/Arizn3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développer une application, c'est transformer une idée en une solution concrète grâce à la logique, la créativité et la rigueur.. <br>
+Je développe principalement avec PHP et Symfony, tout en accordant une attention particulière à l'intégration HTML/CSS afin de créer des interfaces que je réalise moi-même. <br>
+J'essaie évidemment d'améliorer mes compétences au fur et à mesure que j'avance ou que je crée. <br>
+<br>
 
-Here are some ideas to get you started:
+## 🚀 Technologies :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☞ HTML5 • CSS3 <br>
+☞ PHP • Symfony <br>
+☞ JavaScript • TypeScript <br>
+☞ Docker • Git • API REST <br>
+☞ MySQL • MongoDB <br>
+
+<br>
+Liens : <br>
+<br>
+
+📧 cappellolucas@icloud.com <br>
+💼 [LinkedIn](https://www.linkedin.com/in/lucas-cappello/) <br>
+🌍 [Instagram](https://www.instagram.com/luca_rizona/)
