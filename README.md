@@ -1,11 +1,12 @@
 <h1 align="center">Lucas Cappello</h1>
-<h3 align="center">Développeur Full-Stack Junior</h3>
+<h3 align="center">Junior Full-Stack Developer</h3>
 <br>
-<h4> Développeur Full-Stack Junior passionné, curieux et rigoureux </h4>
 
-Développer une application, c'est transformer une idée en une solution concrète grâce à la logique, la créativité et la rigueur.. <br>
-Je développe principalement avec PHP et Symfony, tout en accordant une attention particulière à l'intégration HTML/CSS afin de créer des interfaces que je réalise moi-même. <br>
-J'essaie évidemment d'améliorer mes compétences au fur et à mesure que j'avance ou que je crée. <br>
+<h4> Passionate Junior Full-Stack Developer, curious and detail-oriented. </h4>
+
+For me, developing an application means turning an idea into a concrete solution through logic, creativity, and attention to detail. <br>
+I mainly work with PHP and Symfony, while paying particular attention to HTML/CSS integration to create clean and responsive user interfaces.
+I'm constantly looking to improve my skills as I learn, build, and take on new challenges. <br>
 <br>
 
 ## 🚀 Technologies :
